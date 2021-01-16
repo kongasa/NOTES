@@ -1,1 +1,2 @@
 可迭代对象
+selection.iterator
